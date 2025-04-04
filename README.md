@@ -1,5 +1,10 @@
-## Hi there 👋
-
+# About me???
+ - I like stiff
+ - I do stuff
+ - I eat stuff
+ - I drink stuff
+ - I sometimes make stuff
+#### Thats it 👍
 <!--
 **arjunpanickar/arjunpanickar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
